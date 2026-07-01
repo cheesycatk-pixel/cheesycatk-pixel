@@ -5,7 +5,7 @@
 <h1>Hi there!</h1>
 
 <p>
-  this is an "alt" account of @Jadelua or 'https://github.com/Jadelua
+  this is an "alt" account of [@Jadelua](https://github.com/Jadelua) (https://github.com/Jadelua)
 
   this is where i will be posting more of my 'Serious' projects like projects that i made while learning something
 
